@@ -25,7 +25,7 @@ const checkInput = (emptyHandler, ...strings) => {
 };
 
 const emptyStringError = () => {
-  alert("A string is empty!");
+  alert("A string is empty.");
 };
 
 sayHello("Hello");
